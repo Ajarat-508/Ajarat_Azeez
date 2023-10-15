@@ -8000,6 +8000,7 @@ textarea.form-control-lg {
 
 .text-end {
   text-align: right !important;
+  color: #003d67;
 }
 
 .text-center {
@@ -8103,7 +8104,7 @@ textarea.form-control-lg {
 
 .text-muted {
   --bs-text-opacity: 1;
-  color: #6c757d !important;
+  color: #003d67 !important;
 }
 
 .text-black-50 {
